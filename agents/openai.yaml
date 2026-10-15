@@ -1,0 +1,4 @@
+interface:
+  display_name: "Workflow to Skill"
+  short_description: "Turn walkthroughs into reusable agent skills"
+  default_prompt: "Use $workflow-to-skill to turn this transcript or workflow into a reusable skill."
