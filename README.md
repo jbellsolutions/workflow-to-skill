@@ -2,6 +2,8 @@
 
 Turn a spoken explanation, transcript, screen walkthrough, SOP, or demonstrated workflow into a reusable agent skill.
 
+**[Read the published document](https://supple-vortex-fah6.here.now/)** · **[Download the skill ZIP](https://supple-vortex-fah6.here.now/workflow-to-skill.zip)**
+
 Start with the job: define the outcome, understand the current process, separate stable rules from changing inputs, decide where AI helps, and write instructions another agent can follow and verify.
 
 ## Give it to an agent
